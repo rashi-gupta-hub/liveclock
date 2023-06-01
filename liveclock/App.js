@@ -5,7 +5,7 @@ import Constants from 'expo-constants';
 // You can import from local files
 import LiveClock from './components/AssetExample';
 
-//  any pure javascript module
+//  OR any pure javascript module
 import { Card } from 'react-native-paper';
 
 
@@ -36,3 +36,4 @@ const styles = StyleSheet.create({
     color: 'red',
   },
 });
+
